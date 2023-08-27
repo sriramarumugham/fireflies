@@ -6,8 +6,8 @@ const AboutUs = () => {
 
   return (
     <>
-      <section className="w-screen py-2 pt-20 lg:pt-[120px] pb-12 lg:pb-[90px] overflow-hidden">
-        <div className="container">
+      <section className="w-screen bg-red-500 pt-20 lg:pt-[120px] pb-12 lg:pb-[90px] overflow-hidden">
+        <div className="container w-[100%]">
           <div className="flex flex-wrap items-center justify-between -mx-4">
             <div className="w-full px-4 lg:w-6/12">
               <div className="flex items-center -mx-3 sm:-mx-4">
